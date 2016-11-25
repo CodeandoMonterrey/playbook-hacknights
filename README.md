@@ -1,4 +1,4 @@
-# Civic Hack Night Playbook
+# Playbook para las Civic Hack Nights
 
 ## Previo a la Civic Hack Night
 
