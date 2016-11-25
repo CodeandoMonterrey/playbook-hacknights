@@ -16,7 +16,7 @@
 ### Difusión 📢
 
 - [ ] **Crear invitación**. Actualmente utilizamos [Meetup](http://meetup.com/CodeandoMonterrey).
-- [ ] **Conseguir patrocinador** para la Hack Night. 💸 Actualmente no tenemos patrocinador :(
+- [ ] **Conseguir patrocinador** para la Hack Night. 💸 Actualmente no tenemos patrocinador :( Si te interesa patrocinarnos alguna Civic Hack Night, escríbenos a [monterrey@codeandomexico.org](mailto:monterrey@codeandomexico.org)
 - [ ] **Definir invitados especiales**. ⭐️ Los eventos son abiertos, pero en ocasiones enviamos invitaciones a comunidades tecnológicas, empresas de tecnología, gobies, organizaciones y gente que esté haciendo cosas chidas en la ciudad que pueda contribuir en algún proyecto en particular. Ejemplo: Si un proyecto se está trabajando en Rails, invitamos a la comunidad de Ruby Monterrey; si vamos a trabajar en un proyecto de movilidad, invitamos a MOVAC y gobies que trabajen en la Secretaría de Movilidad.
 - [ ] **Dividir invitaciones**. Cada miembro del core-team se encarga de enviar las invitaciones a los invitados especiales.
 - [ ] **Enviar invitaciones**. 📤
