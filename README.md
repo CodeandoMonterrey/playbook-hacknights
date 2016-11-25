@@ -52,7 +52,7 @@
 
 ## Después de la Civic Hack Night 
 
-- [ ] *Publicar post* en redes sociales con:
+- [ ] **Publicar post** en redes sociales con:
 * Agradecimiento a asistentes.
 * Agradecimiento a sponsors y organizaciones que participaron.
 * Recap de lo que pasó (avances concretos de proyectos).
