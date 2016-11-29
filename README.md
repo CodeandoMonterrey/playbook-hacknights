@@ -4,7 +4,11 @@
 
 ### Planeación
 
-- [ ] **Reunión del core-team-mty**. Nos reunimos todos los lunes de 17:00-17:30, para revisar qué pasó en la Hack Night anterior, planear la siguiente y discutir temas de la comunidad.
+- [ ] **Reunión del core-team-mty**. Nos reunimos todos los lunes de 17:00-17:30, para:
+* Revisar qué pasó en la Hack Night anterior
+* Planear la siguiente
+* Discutir temas de la comunidad (eventos de otras comunidades o de gobierno abierto)
+* Realizar plan de comunicación de esa semana (qué links compartir, etc.)
 - [ ] **Definir fecha**. Actualmente nos reunimos todos los jueves de 19:00-22:00. 📅
 - [ ] **Definir lugar**. Actualmente nos reunimos en la Civic House (los HQ de Cívica Digital). 🏡
 
